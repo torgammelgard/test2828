@@ -1,3 +1,5 @@
+package se.torgammelgard;
+
 import org.junit.Test;
 
 public class FooTest {
